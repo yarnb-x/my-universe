@@ -1,0 +1,3 @@
+{
+  "python.defaultInterpreterPath": "./python-sidecar/.venv/Scripts/python.exe"
+}
